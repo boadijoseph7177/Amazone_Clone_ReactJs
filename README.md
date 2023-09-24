@@ -1,6 +1,8 @@
 
 # Amazon - Clone using ReactJs
 
+This project is a clone of the Amazon e-commerce platform, built using ReactJs and various technologies.
+
 **Project Link** - ***https://alanbinu-ecommerce.web.app/***
 
 ## Tech We Used
